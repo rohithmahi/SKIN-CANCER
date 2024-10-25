@@ -1,4 +1,4 @@
-Skin Cancer Detection Using Deep Learning
+**Skin Cancer Detection Using Deep Learning**
 
 This project aims to automate the detection of skin cancer using a Convolutional Neural Network (CNN) model based on the InceptionV3 architecture. It enhances diagnostic accuracy by analyzing images of skin lesions and classifying them as cancerous or non-cancerous.
 Project Overview
